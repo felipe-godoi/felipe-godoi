@@ -10,5 +10,7 @@ Skills: Angular / Nodejs / SQL / Typescript
 - 🌱 I’m currently learning Blockchain and Solidity. 
 - 📫 How to reach me: [my site](godoi.dev) 
 
-[<img src='./assets/github.svg' alt='github' height='40'>](https://github.com/felipe-godoi)  [<img src='./assets/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/felipe-godoi/)  [<img src='./assets/gray-icon.png' alt='website' height='40'>](https://godoi.dev)  
+<a alt="github" href="https://github.com/felipe-godoi" target="_blank"><img style="height: 40px;" src="./assets/github.svg"></a>
+<a alt="linkedin" href="https://www.linkedin.com/in/felipe-godoi/" target="_blank"><img style="height: 40px;" src="./assets/linkedin.svg"></a>
+<a alt="website" href="https://godoi.dev" target="_blank"><img style="height: 40px;" src="./assets/gray-icon.png"></a>
 
