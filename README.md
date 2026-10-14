@@ -123,7 +123,9 @@ I am 24 years old with **6+ years of experience** as a Full Stack Developer, spe
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/felipe-godoi/felipe-godoi/main/assets/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/felipe-godoi/felipe-godoi/main/assets/github-stats.svg" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/felipe-godoi/felipe-godoi/main/assets/github-top-langs.svg" alt="Top Languages" />
 </div>
 
 ---
