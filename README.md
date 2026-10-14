@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://godoi.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/felipe-godoi/felipe-godoi/main/assets/avatar.png" width="140" alt="Felipe Godoi" />
+    <img src="https://raw.githubusercontent.com/felipe-godoi/felipe-godoi/main/assets/avatar.png" width="185" alt="Felipe Godoi" />
   </a>
 
   <h1>Hey there, I'm Felipe Godoi 👋</h1>
