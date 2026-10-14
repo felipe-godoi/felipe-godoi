@@ -123,9 +123,7 @@ I am 24 years old with **6+ years of experience** as a Full Stack Developer, spe
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipe-godoi&show_icons=true&theme=radical&hide_border=true&bg_color=080d1a&title_color=7c6de9&icon_color=7c6de9&text_color=94a3b8" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-godoi&layout=compact&hide_border=true&bg_color=080d1a&title_color=7c6de9&text_color=94a3b8" alt="Top Languages" />
+  <img src="assets/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
