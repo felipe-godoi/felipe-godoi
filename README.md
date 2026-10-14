@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://godoi.dev" target="_blank" rel="noopener noreferrer">
-    <img src="assets/avatar.png" width="140" alt="Felipe Godoi" />
+    <img src="https://raw.githubusercontent.com/felipe-godoi/felipe-godoi/main/assets/avatar.png" width="140" alt="Felipe Godoi" />
   </a>
 
   <h1>Hey there, I'm Felipe Godoi 👋</h1>
@@ -123,7 +123,7 @@ I am 24 years old with **6+ years of experience** as a Full Stack Developer, spe
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="assets/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/felipe-godoi/felipe-godoi/main/assets/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
@@ -160,15 +160,15 @@ IA faz parte de como eu construo software:
 
 <p align="center">
   <a href="https://godoi.dev" target="_blank">
-    <img src="assets/logo-icon.png" width="36" height="36" alt="godoi.dev" title="godoi.dev" />
+    <img src="https://raw.githubusercontent.com/felipe-godoi/felipe-godoi/main/assets/logo-icon.png" width="36" height="36" alt="godoi.dev" title="godoi.dev" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/felipe-godoi/" target="_blank">
-    <img src="assets/linkedin.svg" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/felipe-godoi/felipe-godoi/main/assets/linkedin.svg" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/felipe-godoi" target="_blank">
-    <img src="assets/github.svg" width="36" height="36" alt="GitHub" title="GitHub" />
+    <img src="https://raw.githubusercontent.com/felipe-godoi/felipe-godoi/main/assets/github.svg" width="36" height="36" alt="GitHub" title="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/5534997651567" target="_blank">
